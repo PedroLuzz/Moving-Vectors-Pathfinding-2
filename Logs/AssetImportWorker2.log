@@ -1,0 +1,246 @@
+Using pre-set license
+Built from '2023.1/staging' branch; Version is '2023.1.0b10 (4d1d37b14308) revision 5053751'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 10  (10.0.19045) 64bit CoreSingleLanguage' Language: 'pt' Physical Memory: 16197 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+F:\Unity Editors\2023.1.0b10\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+F:/Unity Projects/Luz Project AI 1
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+8243
+Successfully changed project path to: F:/Unity Projects/Luz Project AI 1
+F:/Unity Projects/Luz Project AI 1
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [40932] Host "[IP] 192.168.1.3 [Port] 0 [Flags] 2 [Guid] 3589750185 [EditorId] 3589750185 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QKTIG6V) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [40932] Host "[IP] 192.168.1.3 [Port] 0 [Flags] 2 [Guid] 3589750185 [EditorId] 3589750185 [Version] 1048832 [Id] WindowsEditor(7,DESKTOP-QKTIG6V) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 360.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2023.1.0b10 (4d1d37b14308)
+[Subsystems] Discovering subsystems at path F:/Unity Editors/2023.1.0b10/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path F:/Unity Projects/Luz Project AI 1/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:         Direct3D 12 [level 12.1]
+    Renderer:        NVIDIA GeForce RTX 3060 Ti (ID=0x2414)
+    Vendor:          NVIDIA
+    VRAM:            8038 MB
+    App VRAM Budget: 7270 MB
+    Driver:          31.0.15.2849
+d3d12: Profiler is enabled, but stable power state is not. GPU timing errors are expected.
+Initialize mono
+Mono path[0] = 'F:/Unity Editors/2023.1.0b10/Editor/Data/Managed'
+Mono path[1] = 'F:/Unity Editors/2023.1.0b10/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'F:/Unity Editors/2023.1.0b10/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56884
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Registering precompiled unity dll's ...
+Register platform support module: F:/Unity Editors/2023.1.0b10/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002639 seconds.
+- Loaded All Assemblies, in  2.646 seconds
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+- Finished resetting the current domain, in  0.265 seconds
+Domain Reload Profiling: 2911ms
+	BeginReloadAssembly (1852ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (27ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (581ms)
+	LoadAllAssembliesAndSetupDomain (177ms)
+		LoadAssemblies (1921ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (105ms)
+			TypeCache.Refresh (104ms)
+				TypeCache.ScanAssembly (95ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (265ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (229ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (5ms)
+			ProcessInitializeOnLoadAttributes (116ms)
+			ProcessInitializeOnLoadMethodAttributes (100ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Import Worker Mode flag is 0x00
+Begin MonoManager ReloadAssembly
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
+Assembly 'Library/ScriptAssemblies/Assembly-CSharp.dll' will not be loaded due to errors:
+Unable to resolve reference 'Pathfinding'. Is the assembly missing or incompatible with the current platform?
+Reference validation can be disabled in the Plugin Inspector.
+Symbol file LoadedFromMemory doesn't match image F:\Unity Projects\Luz Project AI 1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image F:\Unity Projects\Luz Project AI 1\Library\PackageCache\com.unity.visualscripting@1.8.0\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+- Loaded All Assemblies, in 80.618 seconds
+Refreshing native plugins compatible for Editor in 118.01 ms, found 4 plugins.
+d3d12: upload buffer was full! Waited for COPY queue for 0.832 ms.
+Native extension for WindowsStandalone target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.927 seconds
+Domain Reload Profiling: 81546ms
+	BeginReloadAssembly (334ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (23ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (98ms)
+	LoadAllAssembliesAndSetupDomain (80146ms)
+		LoadAssemblies (79854ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (412ms)
+			TypeCache.Refresh (377ms)
+				TypeCache.ScanAssembly (367ms)
+			ScanForSourceGeneratedMonoScriptInfo (25ms)
+			ResolveRequiredComponents (8ms)
+	FinalizeReload (927ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (452ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (4ms)
+			SetLoadedEditorAssemblies (2ms)
+			BeforeProcessingInitializeOnLoad (73ms)
+			ProcessInitializeOnLoadAttributes (325ms)
+			ProcessInitializeOnLoadMethodAttributes (46ms)
+			AfterProcessingInitializeOnLoad (1ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (68ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
+Refreshing native plugins compatible for Editor in 909.07 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 7882 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 133 unused Assets / (115.1 MB). Loaded Objects now: 8467.
+Memory consumption went from 365.0 MB to 249.9 MB.
+Total: 8.360800 ms (FindLiveObjects: 0.303600 ms CreateObjectMapping: 0.213700 ms MarkObjects: 7.413900 ms  DeleteObjects: 0.429000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/GwJob.cs: 01c8831f04c7867e7d4c23d361f430ee -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:scripting/monoscript/fileName/BasicRigidBodyPush.cs: 834b632457fae9d11b7ee6ae6006cbf8 -> 
+  custom:scripting/monoscript/fileName/StarterAssetsInputs.cs: 109cc5d80cf92b9046134880b5edcf1b -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp-Editor: 9810ec931e5a4f15f94855244a2cca59 -> 
+  custom:scripting/precompiled-assembly-types:Assembly-CSharp: 969e75643f4caf18d7b9627e0607e13c -> 
+  custom:scripting/monoscript/fileName/GraphwayObjectEditor.cs: 19bff63d51ae0944a9920733be0cb322 -> 
+  custom:scripting/monoscript/fileName/ThirdPersonController.cs: a689853034d5fa0ef10dab801796c594 -> 
+  custom:scripting/precompiled-assembly-types:Unity.Collections.DocCodeSamples: e89cccdb0e8ddad1b232be0a06f7894e -> dbdfe8f71be992f044fe89dad74e81c0
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:scripting/precompiled-assembly-types:Pathfinding: 21f78feddde8c5a5d538e365a58ca269 -> 
+  custom:scripting/monoscript/fileName/GraphwayTest.cs: f4943298c55c5db92758a83936101f7b -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Animation.Runtime: 0dff4f33e1fbfccd27974ee4194c496a -> e2580e917831ba5198b852c825a482e6
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:scripting/monoscript/fileName/SentientPotMoveSimple.cs: c7ce465c78776a6c6ad3ff4612916fbd -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Common.Editor: 7d8ba616647f71d7c9236d2b79fdf8e0 -> da1c7a69c914f8d2f4967269be219dd6
+  custom:scripting/precompiled-assembly-types:Unity.RenderPipelines.Core.Editor: e32deef58f793bbde69132fbcd37053e -> 22a6a261653cf96c97f733d45bd119fc
+  custom:scripting/precompiled-assembly-types:Unity.RenderPipelines.HighDefinition.Editor: 12d6b888d1f4ae2a038dae9ea727ed1d -> 91c9822e0a15ff8f4ff801babdbfb2d8
+  custom:scripting/monoscript/fileName/GraphwayMenu.cs: 4c0a941c4da9101d48488dfc753c6d57 -> 
+  custom:scripting/precompiled-assembly-types:Unity.RenderPipelines.HighDefinition.Runtime: e8e4ba0e272d291233761bc6813a501e -> 093e88220a7a6946998a5f3f7de946bb
+  custom:scripting/monoscript/fileName/GwConnection.cs: bf4acd186b54e4c3bafff675bdb44d3e -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Psdimporter.Editor: 96d21fa6d1ddaa792a92aa15e41c7076 -> 3c21f6ed69850fb66d8b024513a3c094
+  custom:scripting/monoscript/fileName/GraphwayConnectionEditor.cs: b3fde8f507c454ccfb51980be3bde199 -> 
+  custom:scripting/monoscript/fileName/GraphwayObject.cs: 73e8019243a65253ed4ff8f2331b42f1 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.SpriteShape.Runtime: 2a3b1eee79d9bfc05ce59a8fae7552b5 -> d6283d7562b0a6bbf8e8e28ad856dcfb
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:scripting/monoscript/fileName/Graphway.cs: e0e793aceb18b0c222cfc19dbe2f306f -> 
+  custom:scripting/monoscript/fileName/GraphwayEditor.cs: 3d1c0c054d4647ced0b0853945ccfecf -> 
+  custom:scripting/monoscript/fileName/MazeCreatures.cs: a4785b56cff0ed72285f7e06936357fa -> 
+  custom:scripting/monoscript/fileName/PathfindingPoint.cs: 1d624c8f5aa00371a6f6cdb0649ffc96 -> 
+  custom:scripting/monoscript/fileName/GraphwayNode.cs: 6c22da4a9f19ee789f6aa4d778503451 -> 
+  custom:scripting/monoscript/fileName/MovementController2D.cs: 5600a3f1f0f7334fdd3b7c82744bdf7e -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/precompiled-assembly-types:Unity.2D.Animation.Editor: 1e444f2cf23221de0f48c9b6dc17f231 -> 2030ea3f89a52dc16d989f0592f017a8
+  custom:scripting/monoscript/fileName/GraphwayConnection.cs: f9c95e7759e7e4f19c1b6f17c828fbfb -> 
+  custom:scripting/precompiled-assembly-types:Unity.Collections: a6f96e7e8ef7cc682eb0d1801baea1c7 -> a8ba1d7192ee394fb3ddf4d3edee6aaa
+  custom:scripting/monoscript/fileName/GwWaypoint.cs: 1ef7351cd5055da27e34018d58434bcd -> 
+  custom:scripting/monoscript/fileName/MoveOnTilemap.cs: 7239c43dd2e93465cc7da0398b4f1cf9 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:scripting/monoscript/fileName/AStarCreatureMovement.cs: 8fab7039e09b7192be9451e50cbddf3c -> 
+  custom:scripting/precompiled-assembly-types:ScriptablePacker: ba11aab3328ab43b4558b78093eb9067 -> 5867e810e9f4f5bc5fa1179421e2de68
+  custom:scripting/monoscript/fileName/FirstPersonController.cs: a84db48f9c6674dd2c91a1d423e221b3 -> 
+  custom:scripting/precompiled-assembly-types:PsdPlugin: a41181a759989a5c7cabc595067ed788 -> 87f01437b9c23838d69947cbea7c4953
+  custom:scripting/monoscript/fileName/GwNode.cs: a32e497002ff65d8bdd6857cea07baca -> 
+  custom:scripting/monoscript/fileName/GraphwayNodeEditor.cs: 98489f8ee1cc21530d4181d601a46bbe -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
